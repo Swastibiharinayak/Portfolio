@@ -8,7 +8,7 @@ const Hero = () => {
     <div id="hero">
       <div id="left">
         <div id="imgsec">
-          <img src="https://media.licdn.com/dms/image/v2/D4D03AQHiIIBWytHAlA/profile-displayphoto-crop_800_800/B4DaDb298BLAAI-/0/1790395016825?e=1796256000&v=beta&t=7rxcix6f9qD_USjWhgrhOrusuCPmn_Fy_CrIs5pl_14" alt="Display Picture" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_boqKWQIo2HA3-Ce5F8kyjdtErbPODJT9EWbPpPvPew&s" alt="Display Picture" />
           <h1>Swasti Bihari Nayak</h1>
         </div>
         <p>A MERN Stack Developer passionate about building scalable, user-friendly web applications.</p>
